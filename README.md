@@ -1,4 +1,4 @@
-# 🌌 Aurora Business Review Web App
+# 🌌 Business Review Web App
 
 A beautifully designed **React + Vite** project for discovering, reviewing, and managing local businesses.  
 The app combines clean data handling with a **modern Aurora-inspired aesthetic** — glowing gradients, glassmorphism, and smooth animations that make it feel alive.
@@ -37,6 +37,6 @@ Make sure you have **Node.js (v16 or higher)** and **npm** or **yarn** installed
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/web-project.git
+git clone https://github.com/nabilbechara/web-project.git
 cd web-project
 ```
