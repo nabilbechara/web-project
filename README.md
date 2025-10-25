@@ -37,6 +37,6 @@ Make sure you have **Node.js (v16 or higher)** and **npm** or **yarn** installed
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/aurora-business-review.git
-cd aurora-business-review
+git clone https://github.com/yourusername/web-project.git
+cd web-project
 ```
